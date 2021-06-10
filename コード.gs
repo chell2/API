@@ -1,10 +1,3 @@
-// LINE Message API アクセストークン
-var ACCESS_TOKEN = "<Messaging API管理画面で発行したアクセストークン>";
-// 通知URL
-var PUSH = "https://api.line.me/v2/bot/message/push";
-// リプライ時URL
-var REPLY = "https://api.line.me/v2/bot/message/reply";
-
 function doPost(e) {
   // 投稿されたメッセージを取得
   var userMessage = JSON.parse(e.postData.contents).events[0].message.text;
