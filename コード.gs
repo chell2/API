@@ -5,7 +5,7 @@ const BOTNAME="\もくもくらいん💭";
 // ======================= //
 
 // チャネルアクセストークン
-const ACCESS_TOKEN = "fDkpHs84dLdGfKr8ipELcDQNNd55JF3/0YwVXUDmzGVw0b+e0NER8ZoEkGLcYVq1K0AyzIY5A5l/MjEC4YVEuZhihMrKZNBHVbhdhVXjHkhk3KRY8N6o8lpJEOrEjAz9ZmFxlffXDylRNKcd6DXkUAdB04t89/1O/w1cDnyilFU=";  //提出時に抜く
+const ACCESS_TOKEN = "";  //提出時に抜く
 
 // ======================= //
 //  メッセージの受信と返信
